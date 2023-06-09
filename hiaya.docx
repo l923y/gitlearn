@@ -1,3 +1,4 @@
 Fatal Python error: init_fs_encoding: failed to get the Python codec of the filesystem encoding
 Python runtime state: core initialized
 ModuleNotFoundError: No module named 'encodings'
+//复制粘贴了一段错误提示2333
